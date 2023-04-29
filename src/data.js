@@ -1,0 +1,178 @@
+export const data =[
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:1,
+        img:"https://cdn.macbro.uz/macbro/d903f0a3-24db-4c1f-88ee-2f13edd90847",
+        name:"Iphone 14 pro max",
+        price:"13 503 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:2,
+        img:"https://cdn.macbro.uz/macbro/d903f0a3-24db-4c1f-88ee-2f13edd90847",
+        name:"Iphone 14 pro",
+        price:"12 437 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:3,
+        img:"https://cdn.macbro.uz/macbro/c6e88cf5-bc5c-4817-8dc9-120abc2fc5f9",
+        name:"Iphone 14 plus",
+        price:"10 305 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:4,
+        img:"https://cdn.macbro.uz/macbro/c6e88cf5-bc5c-4817-8dc9-120abc2fc5f9",
+        name:"Iphone 14",
+        price:"9 831 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:5,
+        img:"https://cdn.macbro.uz/macbro/c9436eea-1b7c-4368-8534-6659fa4bcd6d",
+        name:"Iphone SE 3 (2022)",
+        price:"5 686 000 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:6,
+        img:"https://cdn.macbro.uz/macbro/e4574dbe-73d2-4cfb-b5b2-65cd3d149021",
+        name:"Iphone 13 pro max",
+        price:"14 332 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:7,
+        img:"https://cdn.macbro.uz/macbro/e4574dbe-73d2-4cfb-b5b2-65cd3d149021",
+        name:"Iphone 13 pro",
+        price:"13 266 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:8,
+        img:"https://cdn.macbro.uz/macbro/2accc770-d5f3-4da4-9a5d-7e16423df22c",
+        name:"Iphone 13",
+        price:"9 002 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:9,
+        img:"https://cdn.macbro.uz/macbro/2accc770-d5f3-4da4-9a5d-7e16423df22c",
+        name:"Iphone 13 mini",
+        price:"9 121 000 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:10,
+        img:"https://cdn.macbro.uz/macbro/7c8b8e85-0b22-4436-ba75-2ac2e0462a39",
+        name:"Iphone 12 pro max",
+        price:"13 029 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:11,
+        img:"https://cdn.macbro.uz/macbro/7c8b8e85-0b22-4436-ba75-2ac2e0462a39",
+        name:"Iphone 12 pro",
+        price:"10 897 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:12,
+        img:"https://cdn.macbro.uz/macbro/cf8e7cf4-4d56-42e6-9e77-292f22895e5a",
+        name:"Iphone 14 pro max 24K",
+        price:"34 350 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:13,
+        img:"https://cdn.macbro.uz/macbro/397b968b-7ae8-44e7-9336-dd04b7440bb1",
+        name:"Iphone 12",
+        price:"7 462 500 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:14,
+        img:"https://cdn.macbro.uz/macbro/397b968b-7ae8-44e7-9336-dd04b7440bb1",
+        name:"Iphone 12 mini",
+        price:"7 107 000 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:15,
+        img:"https://cdn.macbro.uz/macbro/2675312c-997d-4fcf-802c-34bc11171b1d",
+        name:"Iphone 11 pro max",
+        price:"9 358 000 sum"
+    },
+    {
+        size1:"128gb",
+        size2:"256gb",
+        color1:"Black",
+        color2:"Red",
+        desc:"128GB WHITE",
+        id:16,
+        img:"https://cdn.macbro.uz/macbro/2675312c-997d-4fcf-802c-34bc11171b1d",
+        name:"Iphone 11 pro",
+        price:"8 647 000 sum"
+    },
+]
